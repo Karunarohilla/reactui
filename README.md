@@ -1,6 +1,6 @@
 # reactui
 
-Attractive Social Media UI...
+Attractive Social Media UI.
 
 Installation process: 
 1. npm install
