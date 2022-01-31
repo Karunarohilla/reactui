@@ -1,5 +1,15 @@
 # reactui
 
-used adda theme
-Made components in src folder.
-Made components like Recent Notifications, Advertisement, Friends zone, latest top news, Page you may like, Posts etc.
+Attractive Social Media UI...
+
+Installation process: 
+1. npm install
+2. npm start
+3. To create a production build, use npm run build
+
+Components: 
+a. Header
+b. Footer
+c. Post
+d. Social Media
+
